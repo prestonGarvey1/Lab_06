@@ -1,4 +1,4 @@
-import java.nio.file.attribute.UserPrincipal;
+
 import java.util.Scanner;
 public class CtoFConverter {
     public static void main(String[] args) {
@@ -6,7 +6,6 @@ public class CtoFConverter {
         Scanner scan = new Scanner(System.in);
 
         // Values
-
         double fahrenheit = 0.0;
         boolean validInput;
 
